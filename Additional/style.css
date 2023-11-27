@@ -1,0 +1,27 @@
+div{
+    width:100px;
+    height:100px;
+    position: absolute;
+}
+
+#element1{
+    background-color: red;
+    top:10px;
+    left:10px;
+   
+}
+
+#element2{
+    background-color: green;
+    top:20px;
+    left:20px;
+   
+}
+
+
+#element3{
+    background-color: yellow;
+    top:30px;
+    left: 30px;
+   
+}
