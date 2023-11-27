@@ -1,0 +1,26 @@
+.element{
+    width: 80px;
+    height: 40px;
+    background-color: gray;
+    position: relative;
+}
+
+
+
+
+
+.element2{
+background-color:white;
+width: 10px;
+height: 10px;
+padding-top: 20px;
+padding-left: 20px;
+position: absolute;
+
+}
+
+.element:hover{
+    background: green;
+    position: absolute;
+
+}
